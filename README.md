@@ -36,7 +36,7 @@ do Dr. Nelio Alves.</p>
   <p>With the Git installed, in your terminal execute the following command:</p>
   
   ```
-  $ git clone https://github.com/jonasmachados/workshop-spring-boot-mongodb
+  $ git clone https://github.com/edsannn/workshop-spring-boot-mongodb
   ```
   <p>Com o projeto baixado, Instale o Postman:</p>
   <p>With the downloaded project, install the Postman:</p>
